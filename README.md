@@ -1,1 +1,1 @@
-# Kokoatalk
+# kakao-clone
